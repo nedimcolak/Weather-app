@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="permission_denied">Permission denied!</string>
+</resources>
